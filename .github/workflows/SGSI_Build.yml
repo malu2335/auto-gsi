@@ -77,4 +77,4 @@ jobs:
            tag_name: 12
            #body: Use actions auto bulid
          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}       
+            GITHUB_TOKEN: ${{ secrets.GITHUB1_TOKEN }}       
